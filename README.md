@@ -4,10 +4,10 @@ A small demo of the popular video game super mario in python3. The code uses som
 
 Controls:
 
-Right key - Move right
-Left Key - Move left
-Space key - jump
-Ctrl key - throw fireballs
+Right key - Move right.
+Left Key - Move left.
+Space key - jump.
+Ctrl key - throw fireballs.
 
 To run the game:
 1. Make sure your python is at least python 3.5.0 or higher

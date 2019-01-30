@@ -5,8 +5,11 @@ A small demo of the popular video game super mario in python3. The code uses som
 Controls:
 
 Right key - Move right.
+
 Left Key - Move left.
+
 Space key - jump.
+
 Ctrl key - throw fireballs.
 
 To run the game:
